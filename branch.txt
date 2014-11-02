@@ -1,1 +1,3 @@
 i create a new branch
+
+merge without fast-forward
